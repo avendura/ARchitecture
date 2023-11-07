@@ -86,6 +86,16 @@
 				"Win32",
 				"Win64"
 			]
+		},
+		{
+			"Name": "TwinmotionToUnrealContent",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/product/datasmith-twinmotion-content-for-unreal-engine",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
 		}
 	]
 }

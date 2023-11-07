@@ -1,0 +1,9 @@
+Team notes
+
+meeting 11/2
+- git repo
+- installations, etc
+- plan for tuesday's class
+	workflow from revit to unreal
+	building on tilt five
+	get blueprint overview
